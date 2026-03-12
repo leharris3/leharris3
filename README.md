@@ -1,3 +1,3 @@
-👋 Hello! I am a second-year CS MS student at UNC Chapel Hill advised by [Prof. Tianlong Chen](https://tianlong-chen.github.io/index.html#lab). During my undergrad at UNC, I also worked with [Prof. Gedas Bertasius](https://www.gedasbertasius.com/) to develop multimodal datasets for video understanding and human skill estimation. Today, my interests lie at the intersection of computer vision and meteorology, with a particular focus on improving quantitative precipitation estimation (QPE) algorithms using data-driven approaches. These challenges are inherently cross-disciplinary and foster collaborations that I find deeply rewarding.
+👋 Hello! 
 
-Feel free to reach out (email is likely your best bet) with any questions about research or grad school!
+I'm working on data-driven techniques [quantitative precipitation estimation (QPE)](https://inside.nssl.noaa.gov/mrms/).
