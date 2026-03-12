@@ -1,3 +1,3 @@
 👋 Hello! 
 
-I'm working on data-driven techniques [quantitative precipitation estimation (QPE)](https://inside.nssl.noaa.gov/mrms/).
+I'm developing data-driven techniques for [quantitative precipitation estimation (QPE)](https://inside.nssl.noaa.gov/mrms/)
